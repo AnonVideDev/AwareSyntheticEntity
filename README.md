@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-20260217.png" width="150" alt="Life logo">
+  <img src="assets/Screenshot_20260217_193447_GitHub.jpg" width="150" alt="Life logo">
 </p>
 
 # Life
